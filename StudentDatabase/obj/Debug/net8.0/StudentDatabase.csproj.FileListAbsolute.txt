@@ -1,0 +1,14 @@
+c:\Users\lh0987936\OneDrive - Ozarks Technical Community College\Intro Com Program\Chapter 15 - File Processing\StudentDatabase\bin\Debug\net8.0\StudentDatabase.exe
+c:\Users\lh0987936\OneDrive - Ozarks Technical Community College\Intro Com Program\Chapter 15 - File Processing\StudentDatabase\bin\Debug\net8.0\StudentDatabase.deps.json
+c:\Users\lh0987936\OneDrive - Ozarks Technical Community College\Intro Com Program\Chapter 15 - File Processing\StudentDatabase\bin\Debug\net8.0\StudentDatabase.runtimeconfig.json
+c:\Users\lh0987936\OneDrive - Ozarks Technical Community College\Intro Com Program\Chapter 15 - File Processing\StudentDatabase\bin\Debug\net8.0\StudentDatabase.dll
+c:\Users\lh0987936\OneDrive - Ozarks Technical Community College\Intro Com Program\Chapter 15 - File Processing\StudentDatabase\bin\Debug\net8.0\StudentDatabase.pdb
+c:\Users\lh0987936\OneDrive - Ozarks Technical Community College\Intro Com Program\Chapter 15 - File Processing\StudentDatabase\obj\Debug\net8.0\StudentDatabase.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\lh0987936\OneDrive - Ozarks Technical Community College\Intro Com Program\Chapter 15 - File Processing\StudentDatabase\obj\Debug\net8.0\StudentDatabase.AssemblyInfoInputs.cache
+c:\Users\lh0987936\OneDrive - Ozarks Technical Community College\Intro Com Program\Chapter 15 - File Processing\StudentDatabase\obj\Debug\net8.0\StudentDatabase.AssemblyInfo.cs
+c:\Users\lh0987936\OneDrive - Ozarks Technical Community College\Intro Com Program\Chapter 15 - File Processing\StudentDatabase\obj\Debug\net8.0\StudentDatabase.csproj.CoreCompileInputs.cache
+c:\Users\lh0987936\OneDrive - Ozarks Technical Community College\Intro Com Program\Chapter 15 - File Processing\StudentDatabase\obj\Debug\net8.0\StudentDatabase.dll
+c:\Users\lh0987936\OneDrive - Ozarks Technical Community College\Intro Com Program\Chapter 15 - File Processing\StudentDatabase\obj\Debug\net8.0\refint\StudentDatabase.dll
+c:\Users\lh0987936\OneDrive - Ozarks Technical Community College\Intro Com Program\Chapter 15 - File Processing\StudentDatabase\obj\Debug\net8.0\StudentDatabase.pdb
+c:\Users\lh0987936\OneDrive - Ozarks Technical Community College\Intro Com Program\Chapter 15 - File Processing\StudentDatabase\obj\Debug\net8.0\StudentDatabase.genruntimeconfig.cache
+c:\Users\lh0987936\OneDrive - Ozarks Technical Community College\Intro Com Program\Chapter 15 - File Processing\StudentDatabase\obj\Debug\net8.0\ref\StudentDatabase.dll

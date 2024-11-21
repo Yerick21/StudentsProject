@@ -1,0 +1,14 @@
+C:\Users\yg0998471\OneDrive - Ozarks Technical Community College\Desktop\Students\bin\Debug\net8.0\Students.exe
+C:\Users\yg0998471\OneDrive - Ozarks Technical Community College\Desktop\Students\bin\Debug\net8.0\Students.deps.json
+C:\Users\yg0998471\OneDrive - Ozarks Technical Community College\Desktop\Students\bin\Debug\net8.0\Students.runtimeconfig.json
+C:\Users\yg0998471\OneDrive - Ozarks Technical Community College\Desktop\Students\bin\Debug\net8.0\Students.dll
+C:\Users\yg0998471\OneDrive - Ozarks Technical Community College\Desktop\Students\bin\Debug\net8.0\Students.pdb
+C:\Users\yg0998471\OneDrive - Ozarks Technical Community College\Desktop\Students\obj\Debug\net8.0\Students.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yg0998471\OneDrive - Ozarks Technical Community College\Desktop\Students\obj\Debug\net8.0\Students.AssemblyInfoInputs.cache
+C:\Users\yg0998471\OneDrive - Ozarks Technical Community College\Desktop\Students\obj\Debug\net8.0\Students.AssemblyInfo.cs
+C:\Users\yg0998471\OneDrive - Ozarks Technical Community College\Desktop\Students\obj\Debug\net8.0\Students.csproj.CoreCompileInputs.cache
+C:\Users\yg0998471\OneDrive - Ozarks Technical Community College\Desktop\Students\obj\Debug\net8.0\Students.dll
+C:\Users\yg0998471\OneDrive - Ozarks Technical Community College\Desktop\Students\obj\Debug\net8.0\refint\Students.dll
+C:\Users\yg0998471\OneDrive - Ozarks Technical Community College\Desktop\Students\obj\Debug\net8.0\Students.pdb
+C:\Users\yg0998471\OneDrive - Ozarks Technical Community College\Desktop\Students\obj\Debug\net8.0\Students.genruntimeconfig.cache
+C:\Users\yg0998471\OneDrive - Ozarks Technical Community College\Desktop\Students\obj\Debug\net8.0\ref\Students.dll
