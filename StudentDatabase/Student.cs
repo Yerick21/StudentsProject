@@ -4,13 +4,13 @@ using System.Linq;
 
 public class Student
 {
-    private int ID { get; set; }
-    private string fName { get; set; }
-    private string lName { get; set; }
-    private DateTime DOB { get; set; }
-    private string major { get; set; }
-    private List<string> classes { get; set; }
-    private bool isEnrolled { get; set; }
+    public int ID { get; set; }
+    public string fName { get; set; }
+    public string lName { get; set; }
+    public DateTime DOB { get; set; }
+    public string major { get; set; }
+    public List<string> classes { get; set; }
+    public bool isEnrolled { get; set; }
     public Student()
     {
         ID = 0;
@@ -23,19 +23,18 @@ public class Student
     }
     public Student(int id, string fname, string lname, DateTime dob, string Major, List<string> Classes, bool ISenrolled)
     {
-        ID = id;
-        fName = fname;
-        lName = lname;
-        DOB = dob;
-        major = Major;
-        classes = Classes;
-        isEnrolled = ISenrolled;
+        this.ID = ID;
+        this.fName = fName;
+        this.lName = lName;
+        this.DOB = DOB;
+        this.major = major;
+        this.classes = classes;
+        this.isEnrolled = isEnrolled;
     }
     //place holders
+
+
     //Returnees from the Creating New Students part in the Main, Depending on if we JUST need this call they'll have to be modified, but since they don't leave this class if they complain about being undifined you can probably set them to Private without issue.
-
-
-
     public void CreateStudent()
     {
         string ans;
